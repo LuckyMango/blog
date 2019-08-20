@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>I Mango</title>
+  <icon>https://www.gravatar.com/avatar/0a441574d3884db2ec52d0331538306d</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://shierblog.cn/"/>
+  <updated>2019-08-20T11:48:41.987Z</updated>
+  <id>http://shierblog.cn/</id>
+  
+  <author>
+    <name>爱芒果真的是太好辣</name>
+    <email>uu.pein@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My first Post</title>
+    <link href="http://shierblog.cn/test.html"/>
+    <id>http://shierblog.cn/test.html</id>
+    <published>2017-09-01T06:55:28.000Z</published>
+    <updated>2019-08-20T11:48:41.987Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><!-- build time:Tue Aug 20 2019 21:10:56 GMT+0800 (China Standard Time) --><p><a href="https://github.com/kaimz" rel="external nofollow noopener noreferrer" target="_blank">Fork me on github</a></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;!-- build time:Tue Aug 20 2019 21:10:56 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
